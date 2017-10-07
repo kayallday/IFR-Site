@@ -1,0 +1,96 @@
+body {
+  /*min-height: 75rem; /* Can be removed; just added for demo purposes */*/
+}
+
+nav {
+  float: right;
+  text-align: right:
+}
+
+.navbar {
+  margin-bottom: 0;
+  float: right;
+  text-align: right;
+}
+
+.nav-item {
+  float: right;
+  text-align: right;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+/*.jumbotron .container {
+  max-width: 40rem;
+}*/
+
+.row {
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  /*padding: .25rem;*/
+  margin-bottom: 1rem;
+  border: 0;
+  text-align: center;
+}
+
+.card-img-top {
+  max-height: 250px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  font-size: 85%;
+  text-align: center;
+}
+
+
+
+ul li{
+  display: inline-block;
+}
+
+#social-icons {
+  height: 300px;
+  background: #bcbcbc;
+}
+
+#social-icons li {
+  width: 20%;
+  float: left;
+  padding-left: 39px;
+}
+
+#social-icons li:nth-child(5n) {
+  padding-right: 0;
+}
+
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
