@@ -1,6 +1,6 @@
 <div id="social-icons">
   <h4>Follow Us</h4>
-  <ul>
+  <ul class="icons">
     <li><a sr-only="Facebook" class="fa fa-facebook fa-5x" href="https://www.facebook.com/indianafathersrightsorg/" target="_blank"></a></li>
     <li><a sr-only="Instagram" class="fa fa-instagram fa-5x" href="https://www.instagram.com/indianafathersrights/" target="_blank"></a></li>
     <li><a sr-only="Twitter" class="fa fa-twitter fa-5x" href="https://twitter.com/infathersrights" target="_blank"></a></li>
