@@ -1,19 +1,18 @@
 {
-  "name": "grunt",
+  "name": "Indiana Father's Rights Project",
   "version": "1.0.0",
-  "description": "Using Grunt with Laravel and Boostrap",
+  "description": "Indiana Father's Rights website.",
   "main": "gruntfile.js",
   "directories": {
     "test": "tests"
   },
   "dependencies": {
-    "grunt": "^1.0.1",
-    "grunt-cli": "^1.2.0",
-    "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-uglify": "^3.1.0",
-    "node-sass": "^4.6.0"
   },
   "devDependencies": {
+    "node-sass": "^4.6.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-uglify": "^3.1.0",
