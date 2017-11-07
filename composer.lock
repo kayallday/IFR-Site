@@ -2519,7 +2519,6 @@
                 "object graph"
             ],
             "time": "2017-10-19T19:58:43+00:00"
-<<<<<<< HEAD
         },
         {
             "name": "panique/laravel-sass",
@@ -2564,8 +2563,6 @@
                 "scss"
             ],
             "time": "2017-03-07T18:55:48+00:00"
-=======
->>>>>>> dev
         },
         {
             "name": "phar-io/manifest",
