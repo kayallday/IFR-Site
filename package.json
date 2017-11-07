@@ -1,23 +1,26 @@
 {
-  "name": "webapp",
+  "name": "proj",
   "version": "1.0.0",
-  "description": "Indiana Father's Rights website.",
-  "main": "gruntfile.js",
+  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "main": "gulpfile.js",
   "directories": {
     "test": "tests"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
     "grunt": "^1.0.1",
     "grunt-cli": "^1.2.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-less": "^1.4.1",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-uglify": "^3.1.0",
     "grunt-contrib-watch": "^1.0.0",
+    "grunt-phpunit": "^0.3.6",
     "grunt-sass-globbing": "^1.5.1",
     "node-sass": "^4.6.0"
   },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,12 +28,6 @@
     "type": "git",
     "url": "git+https://github.com/kmbeard/IFR-Site.git"
   },
-  "keywords": [
-    "Laravel",
-    "Grunt",
-    "Boostrap",
-    "SASS"
-  ],
   "author": "Kelsey Beard",
   "license": "ISC",
   "bugs": {
