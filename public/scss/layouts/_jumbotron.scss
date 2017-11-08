@@ -1,0 +1,22 @@
+.jumbotron {
+  width: 100%;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.jumbo-head {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.jumbotron p {
+  text-align: center;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}

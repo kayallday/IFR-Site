@@ -1,4 +1,4 @@
-<div id="social-icons">
+<!-- <div id="social-icons"> -->
   <h4>Follow Us</h4>
   <ul class="icons">
     <li><a sr-only="Facebook" class="fa fa-facebook fa-5x" href="https://www.facebook.com/indianafathersrightsorg/" target="_blank"></a></li>
@@ -7,4 +7,4 @@
     <li><a sr-only="Email" class="fa fa-envelope-o fa-5x" href="mailto:indianafathersrights@gmail.com?Subject=Tell%20us%20your%20story" target="_top"></a></li>
     <li><a sr-only="Google+"class="fa fa-google-plus fa-5x" href="https://plus.google.com/u/0/110348684353015360227" target="_blank"></a></li>
   </ul>
-</div>
+<!-- </div> -->

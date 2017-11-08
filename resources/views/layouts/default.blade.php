@@ -8,14 +8,18 @@
       @include('includes.header')
     </header>
 
-    <div id="main" class="row">
+    <div class="main" class="row">
+      <div class="col-md-12">
 
-      @yield('content')
+        @yield('content')
 
+      </div>
     </div>
 
     <footer class="row">
-      @include('includes.footer')
+      <div class="col-md-12">
+        @include('includes.footer')
+      </div>
     </footer>
 
   </div>
