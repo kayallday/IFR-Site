@@ -1,5 +1,9 @@
+footer.row {
+  margin: 0 15px;
+}
 div.footer-nav {
   position: relative;
+  width: 100%;
   text-align: center;
   top: -185px;
   // left: 225px;
@@ -8,7 +12,7 @@ div.footer-nav {
 .footer-banner {
   width: 1080px;
   position: relative;
-  left: 15px;
+  // left: 15px;
   height: 300px;
 }
 
