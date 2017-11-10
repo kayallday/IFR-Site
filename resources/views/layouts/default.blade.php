@@ -17,9 +17,7 @@
     </div>
 
     <footer class="row">
-      <div class="col-md-12">
         @include('includes.footer')
-      </div>
     </footer>
 
   </div>

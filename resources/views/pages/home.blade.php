@@ -2,6 +2,7 @@
 
 @section('content')
 <div class="col-md-12 jumbotron">
+  <!-- <img class="jumbotron" src="Images/Banners/photo-433502.jpeg"/> -->
   <div class="container">
     <h1 class="jumbo-head">Children need Fathers. </br>Not visitors.</h1>
     <p>Find the support you need. Support a great cause. Join the Indiana Father's Rights movement.</p>
