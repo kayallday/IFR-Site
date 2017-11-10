@@ -3,7 +3,7 @@
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: $white;
 }
 
 .jumbo-head {
@@ -19,4 +19,26 @@
 
 .jumbotron p:last-child {
   margin-bottom: 0;
+}
+
+.sign-up {
+  color: $white;
+  background-color: $boston-blue;
+  border-color: $boston-blue;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+
+.log-in {
+  color: $boston-blue;
+  background-color: $white;
+  border-color: $boston-blue;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-left: 10px;
 }

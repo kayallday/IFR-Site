@@ -1,5 +1,5 @@
 <!-- <div id="social-icons"> -->
-  <h4>Follow IFR</h4>
+  <h2>Follow IFR</h2>
   <ul class="icons">
     <li><a sr-only="Facebook" class="fa fa-facebook fa-5x" href="https://www.facebook.com/indianafathersrightsorg/" target="_blank"></a></li>
     <li><a sr-only="Instagram" class="fa fa-instagram fa-5x" href="https://www.instagram.com/indianafathersrights/" target="_blank"></a></li>

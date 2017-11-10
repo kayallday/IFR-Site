@@ -1,11 +1,9 @@
-@import 'colors';
-
-h4 {
-  font-size: 1.5rem;
+h2 {
+  font-size: 24px;
   text-align: center;
   padding-top: 2%;
   text-transform: uppercase;
-  $boston-blue: #308BBD;
+  color: $boston-blue;
 }
 
 ul.icons {
@@ -16,11 +14,15 @@ ul.icons {
 
 ul li{
   display: inline-block;
+  color: $boston-blue;
+  a {
+    color: $boston-blue;
+  }
 }
 
 .social-icons {
   height: 300px;
-  background: #bcbcbc;
+  background: $gray-nurse;
 }
 
 .social-icons li {

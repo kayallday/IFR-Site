@@ -1,4 +1,4 @@
-<div class="col-md-12 footer-nav">
+<div class="footer-nav">
   <ul>
     <!-- <li><a href="#">Sitemap</a> |</li>
     <li><a href="#">Privacy Policy</a> |</li> -->
