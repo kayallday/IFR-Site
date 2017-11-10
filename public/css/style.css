@@ -52,6 +52,11 @@ nav {
   font-size: 85%;
   text-align: center;
 }
+.mission-statement {
+  font-size: 1.5rem;
+  text-align: center;
+  color: #308bbd;
+}
 .jumbotron {
   width: 100%;
   padding-top: 6rem;
@@ -88,6 +93,8 @@ h4 {
   font-size: 1.5rem;
   text-align: center;
   padding-top: 2%;
+  text-transform: uppercase;
+  color: #308bbd;
 }
 ul.icons {
   margin-top: 5%;

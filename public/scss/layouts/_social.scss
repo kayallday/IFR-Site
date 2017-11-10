@@ -1,9 +1,11 @@
+@import 'colors';
+
 h4 {
   font-size: 1.5rem;
   text-align: center;
   padding-top: 2%;
   text-transform: uppercase;
-  color: #308BBD;
+  $boston-blue: #308BBD;
 }
 
 ul.icons {

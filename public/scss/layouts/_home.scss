@@ -1,4 +1,5 @@
 @import 'jumbotron';
+@import 'colors';
 .row {
   flex-wrap: wrap;
   margin: 20px;
@@ -29,5 +30,5 @@
 .mission-statement {
   font-size: 1.5rem;
   text-align: center;
-  color: #308BBD;
+  $boston-blue: #308BBD;
 }
