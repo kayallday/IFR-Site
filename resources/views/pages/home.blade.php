@@ -40,14 +40,16 @@
     </div>
   </div>
 </div>
+
+<div class="row">
+  <div class="mission-statement col-md-12">
+    <h2>Our Mission</h2>
+    <p>Indiana Father's Rights is a source of info and support for Father's struggling with the Family Court System. We are working towards non-profit status.</p>
+  </div>
+</div>
+
 <div class="social-icons">
   @include('includes.social')
 </div>
 
-<div class="row">
-  <div class="col-md-12">
-    <h2>OUR MISSION</h2>
-    <p>Indiana Father's Rights is a source of info and support for Father's struggling with the Family Court System. We are working towards non-profit status.</p>
-  </div>
-</div>
 @endsection
