@@ -3,9 +3,15 @@ nav {
   text-align: right;
 }
 .navbar {
-  margin-bottom: 0;
-  float: right;
-  text-align: right;
+  height: 100px;
+}
+.logo {
+  left: -230px;
+  width: 40%;
+  position: relative;
+}
+.main-menu {
+  left: 200px;
 }
 .nav-item {
   float: right;
@@ -94,9 +100,15 @@ nav {
   text-align: right;
 }
 .navbar {
-  margin-bottom: 0;
-  float: right;
-  text-align: right;
+  height: 100px;
+}
+.logo {
+  left: -230px;
+  width: 40%;
+  position: relative;
+}
+.main-menu {
+  left: 200px;
 }
 .nav-item {
   float: right;

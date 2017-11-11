@@ -4,9 +4,17 @@ nav {
 }
 
 .navbar {
-  margin-bottom: 0;
-  float: right;
-  text-align: right;
+  height: 100px;
+}
+
+.logo {
+  left: -220px;
+  width: 55%;
+  position: relative;
+}
+
+.main-menu {
+  left: 200px;
 }
 
 .nav-item {
