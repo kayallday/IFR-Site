@@ -1,10 +1,18 @@
 .jumbotron {
-  width: 100%;
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  margin-bottom: 0;
-  background-color: $white;
+  // width: 100%;
+  // padding-top: 6rem;
+  // padding-bottom: 6rem;
+  // margin-bottom: 0;
+  // background-color: $white;
+  background-image: url('../../images/stock-photos/father-child-tree.jpg') ;
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
+
+// .jumbotron-image {
+//   width: 100%;
+// }
 
 .jumbo-head {
   font-size: 40px;

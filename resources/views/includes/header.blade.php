@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top bg-light">
   <div class="col-md-4">
-    <a class="navbar-brand" href="#"><img class="logo" src="Images/logos/ifr_logo_wtxt_blk_sd_by_sd_graphic.png"><span class="sr-only">Indiana Father's Rights</span></a>
+    <a class="navbar-brand" href="#"><img class="logo" src="images/logos/ifr_logo_wtxt_blk_sd_by_sd_graphic.png"><span class="sr-only">Indiana Father's Rights</span></a>
   </div>
   <div class="col-md-8 main-menu">
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">

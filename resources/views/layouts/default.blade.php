@@ -8,15 +8,13 @@
       @include('includes.header')
     </header>
 
-    <div class="main" class="row">
-      <div class="col-md-12">
+    <main role="main">
 
         @yield('content')
 
-      </div>
-    </div>
+    </main>
 
-    <footer class="row">
+    <footer class="container">
         @include('includes.footer')
     </footer>
 

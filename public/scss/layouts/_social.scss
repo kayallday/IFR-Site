@@ -21,14 +21,16 @@ ul li{
 }
 
 .social-icons {
-  height: 300px;
   background: $gray-nurse;
+  width: 1425px;
+  position: relative;
+  height: 300px;
+  left: -173px;
 }
 
 .social-icons li {
-  width: 20%;
   float: left;
-  padding-left: 39px;
+  margin: 0 101px;
 }
 
 .social-icons li:nth-child(5n) {

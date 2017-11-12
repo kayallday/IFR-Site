@@ -1,4 +1,4 @@
-<img class="responsive footer-banner" src="Images/Banners/bkgrnd_geo_banner.png"/>
+<img class="responsive footer-banner" src="images/banners/bkgrnd_geo_banner.png"/>
 <div class="footer-nav">
   <ul>
     <!-- <li><a href="#">Sitemap</a> |</li>
