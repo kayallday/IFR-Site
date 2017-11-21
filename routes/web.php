@@ -24,25 +24,25 @@ Route::get('about', function()
 {
   return View::make('pages.about');
 });
-
-Route::get('resources', function()
-{
-  return View::make('pages.resources');
-});
+//
+// Route::get('resources', function()
+// {
+//   return View::make('pages.resources');
+// });
 
 Route::get('court-forms', function()
 {
-  return View::make('resources.pages.court-forms');
+  return View::make('pages.court-forms');
 });
-
-Route::get('legal', function()
-{
-  return View::make('resources.pages.legal');
-});
+//
+// Route::get('legal', function()
+// {
+//   return View::make('resources.pages.legal');
+// });
 
 Route::get('support', function()
 {
-  return View::make('resources.pages.support');
+  return View::make('pages.support');
 });
 
 Route::get('get-involved', function()
@@ -54,15 +54,16 @@ Route::get('store', function()
 {
   return View::make('pages.store');
 });
+
 Route::get('contact', function()
 {
   return View::make('pages.contact');
 });
 
-Route::get('login', function()
-{
-  return View::make('pages.login');
-});
+// Route::get('login', function()
+// {
+//   return View::make('pages.login');
+// });
 
 // Eloquent model => Post
 

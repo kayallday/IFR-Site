@@ -1,33 +1,27 @@
-footer.row {
-  margin: 0 15px;
-}
-div.footer-nav {
-  position: relative;
-  width: 100%;
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
   text-align: center;
-  top: -185px;
-  // left: 225px;
 }
 
-.footer-banner {
-  width: 1425px;
-  position: relative;
-  height: 300px;
-  left: -173px;
-  // width: 1080px;
-  // position: relative;
-  // // left: 15px;
-  // height: 300px;
+.bkgrnd-img {
+  background-image: url(../images/banners/bkgrnd-geo-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
 }
 
-.ft-nav li {
-  color: $boston-blue;
-  list-style-type: none;
+.foot-cont {
+  text-align: center;
 }
 
-.ft-nav li a:hover {
-    color: white;
-    text-decoration: underline;
+.ft-nav {
+  display: inline-block;
+  padding-top: 50px;
 }
 
 .copyright {

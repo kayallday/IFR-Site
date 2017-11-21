@@ -1,38 +1,18 @@
-h2 {
-  font-size: 24px;
-  text-align: center;
-  padding-top: 2%;
-  text-transform: uppercase;
-  color: $boston-blue;
-}
-
-ul.icons {
-  margin-top: 5%;
-  padding-bottom: 6%;
-}
-
-
-ul li{
-  display: inline-block;
-  color: $boston-blue;
-  a {
-    color: $boston-blue;
-  }
-}
-
 .social-icons {
-  background: $gray-nurse;
-  width: 1425px;
-  position: relative;
-  height: 300px;
-  left: -173px;
+  background-color: $gray-nurse;
+  background-position: center;
+  height: 200px;
 }
 
-.social-icons li {
-  float: left;
-  margin: 0 101px;
+.social-cont {
+  text-align: center;
 }
 
-.social-icons li:nth-child(5n) {
-  padding-right: 0;
+.social-icons h2 {
+  text-transform: uppercase;
+  padding-top: 15px;
+}
+
+.social-icons .row {
+  margin-top: 30px;
 }
