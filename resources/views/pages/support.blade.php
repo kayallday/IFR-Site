@@ -1,4 +1,4 @@
-@extends('layouts.default')
+<!-- @extends('layouts.default')
 
 @section('content')
 <div class="jumbotron jumbotron-fluid about">
@@ -9,4 +9,4 @@ is a movement whose members, both men & women, are interested in seeing an equal
 </p>
   </div>
 </div>
-@endsection
+@endsection -->
