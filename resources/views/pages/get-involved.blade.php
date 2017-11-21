@@ -17,7 +17,6 @@
   <div class="row">
     <div class="col-lg-6 cards">
       <div class="card">
-        <!-- <img class="card-img-top post-share-img" src="//www.gofundme.com/mvc.php?route=customimage&amp;url=pmk5nt-indiana-fathers-rights-campaign&amp;sharetype=gfm"> -->
           <i class="fa fa-usd fa-5x card-icon" aria-hidden="true"></i>
         <div class="card-block">
           <div class="card-body">
@@ -32,7 +31,6 @@
     <div class="col-lg-6 cards">
       <div class="card">
           <i class="fa fa-handshake-o fa-5x card-icon" aria-hidden="true"></i>
-        <!-- <img class="card-img-top" src="../images/stock-photos/volunteer.jpeg" alt=""> -->
         <div class="card-block">
           <div class="card-body">
             <h4 class="card-title">Volunteer</h4>

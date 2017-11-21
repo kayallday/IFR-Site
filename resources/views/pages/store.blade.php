@@ -1,4 +1,4 @@
-@extends('layouts.default')
+<!-- @extends('layouts.default')
 
 @section('content')
 <div class="jumbotron jumbotron-fluid about">
@@ -8,4 +8,4 @@
 </p>
   </div>
 </div>
-@endsection
+@endsection -->
