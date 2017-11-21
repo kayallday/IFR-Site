@@ -1,0 +1,74 @@
+.jumbotron-billboard .img {
+  margin-bottom: 0px;
+  opacity: 0.85;
+  color: #fff;
+  background: url(../images/stock-photos/father-child-tree-resized.jpg) center center;
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 27px 0;
+  overflow: hidden;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  z-index: 1;
+}
+
+.jumbotron {
+  position: relative;
+  padding: 50px;
+  height: 800px;
+}
+
+.jumbotron .container {
+  z-index: 2;
+  position: relative;
+  z-index: 2;
+}
+
+.jumbo-container {
+  text-align: center;
+  top: 250px;
+}
+
+.jumbo-head {
+  color: $white;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  text-align: center;
+  background-color: none;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.sign-up {
+  color: $white;
+  background-color: $boston-blue;
+  border-color: $boston-blue;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+
+.log-in {
+  color: $white;
+  background-color: $boston-blue;
+  border-color: $boston-blue;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-left: 10px;
+}

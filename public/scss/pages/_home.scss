@@ -1,0 +1,63 @@
+.main-body {
+  margin-top: 150px;
+}
+
+.row {
+  flex-wrap: wrap;
+  margin-right: -20px;
+  margin-left: -20px;
+}
+
+
+h1 {
+  font-size: 50px;
+}
+
+i.card-icon {
+  font-size: 159px;
+  text-align: center;
+  background: grey;
+  padding-bottom: 75px;
+  padding-top: 75px;
+  color: white;
+  border-radius: 14px;
+  width: 100%;
+}
+
+.card-img-top {
+  max-height: 250px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-text {
+  font-size: 20px;
+  text-align: center;
+}
+
+h2.section-title {
+  font-size: 32px;
+  text-align: center;
+  text-transform: uppercase;
+  color: $boston-blue;
+}
+
+.card-button {
+  color: $white;
+  background-color: $all-ports;
+  border-color: $all-ports;
+  font-family: Bodoni;
+  font-size: 24px;
+  width: 224px;
+}
+
+.mission-statement {
+  margin: 50px 0;
+  text-align: center;
+}
+
+p.content-p {
+  margin-top: 30px;
+}

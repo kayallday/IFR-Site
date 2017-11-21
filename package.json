@@ -1,7 +1,7 @@
 {
   "name": "proj",
   "version": "1.0.0",
-  "description": "<p align=\"center\"><img src=\"https://laravel.com/assets/img/components/logo-laravel.svg\"></p>",
+  "description": "empty",
   "main": "gulpfile.js",
   "directories": {
     "test": "tests"

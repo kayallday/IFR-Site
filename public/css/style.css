@@ -1,0 +1,359 @@
+@import "pages/support";
+@import "pages/store";
+* {
+  font-size: 20px;
+}
+nav {
+  float: right;
+  text-align: right;
+}
+.navbar {
+  height: 100px;
+}
+.logo {
+  left: 0px;
+  width: 60%;
+  position: relative;
+}
+.main-menu {
+  left: auto;
+}
+.nav-item {
+  float: right;
+  text-align: right;
+}
+@media (min-width: 768px) {
+  .logo {
+    left: -30px;
+    width: 120%;
+    position: relative;
+  }
+}
+@media (min-width: 992px) {
+  .logo {
+    left: -15px;
+    width: 65%;
+    position: relative;
+  }
+}
+.jumbotron-billboard .img {
+  margin-bottom: 0px;
+  opacity: 0.85;
+  color: #fff;
+  background: url(../images/stock-photos/father-child-tree-resized.jpg) center center;
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 27px 0;
+  overflow: hidden;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  z-index: 1;
+}
+.jumbotron {
+  position: relative;
+  padding: 50px;
+  height: 800px;
+}
+.jumbotron .container {
+  z-index: 2;
+  position: relative;
+  z-index: 2;
+}
+.jumbo-container {
+  text-align: center;
+  top: 250px;
+}
+.jumbo-head {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+.jumbotron p {
+  font-size: 30px;
+  text-align: center;
+  background-color: none;
+}
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+.sign-up {
+  color: #fff;
+  background-color: #308bbd;
+  border-color: #308bbd;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+.log-in {
+  color: #fff;
+  background-color: #308bbd;
+  border-color: #308bbd;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-left: 10px;
+}
+main {
+  width: 100%;
+  margin-left: -15px;
+}
+.jumbotron-billboard .img {
+  margin-bottom: 0px;
+  opacity: 0.85;
+  color: #fff;
+  background: url(../images/stock-photos/father-child-tree-resized.jpg) center center;
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-position: 27px 0;
+  overflow: hidden;
+  position: absolute;
+  top: 100px;
+  left: 0;
+  z-index: 1;
+}
+.jumbotron {
+  position: relative;
+  padding: 50px;
+  height: 800px;
+}
+.jumbotron .container {
+  z-index: 2;
+  position: relative;
+  z-index: 2;
+}
+.jumbo-container {
+  text-align: center;
+  top: 250px;
+}
+.jumbo-head {
+  color: #fff;
+  font-size: 72px;
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+.jumbotron p {
+  font-size: 30px;
+  text-align: center;
+  background-color: none;
+}
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+.sign-up {
+  color: #fff;
+  background-color: #308bbd;
+  border-color: #308bbd;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-right: 10px;
+}
+.log-in {
+  color: #fff;
+  background-color: #308bbd;
+  border-color: #308bbd;
+  border-radius: 25px;
+  text-transform: uppercase;
+  width: 140px;
+  font-weight: 300;
+  margin-left: 10px;
+}
+nav {
+  float: right;
+  text-align: right;
+}
+.navbar {
+  height: 100px;
+}
+.logo {
+  left: 0px;
+  width: 60%;
+  position: relative;
+}
+.main-menu {
+  left: auto;
+}
+.nav-item {
+  float: right;
+  text-align: right;
+}
+@media (min-width: 768px) {
+  .logo {
+    left: -30px;
+    width: 120%;
+    position: relative;
+  }
+}
+@media (min-width: 992px) {
+  .logo {
+    left: -15px;
+    width: 65%;
+    position: relative;
+  }
+}
+.social-icons {
+  background-color: #e2e5de;
+  background-position: center;
+  height: 200px;
+}
+.social-cont {
+  text-align: center;
+}
+.social-icons h2 {
+  text-transform: uppercase;
+  padding-top: 15px;
+}
+.social-icons .row {
+  margin-top: 30px;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+.bkgrnd-img {
+  background-image: url(../images/banners/bkgrnd-geo-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+.foot-cont {
+  text-align: center;
+}
+.ft-nav {
+  display: inline-block;
+  padding-top: 50px;
+}
+.copyright {
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+  padding-top: 20px;
+}
+.copyright a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+.main-body {
+  margin-top: 150px;
+}
+.row {
+  flex-wrap: wrap;
+  margin-right: -20px;
+  margin-left: -20px;
+}
+h1 {
+  font-size: 50px;
+}
+i.card-icon {
+  font-size: 159px;
+  text-align: center;
+  background: grey;
+  padding-bottom: 75px;
+  padding-top: 75px;
+  color: white;
+  border-radius: 14px;
+  width: 100%;
+}
+.card-img-top {
+  max-height: 250px;
+}
+.card-body {
+  text-align: center;
+}
+.card-text {
+  font-size: 20px;
+  text-align: center;
+}
+h2.section-title {
+  font-size: 32px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #308bbd;
+}
+.card-button {
+  color: #fff;
+  background-color: #006ba3;
+  border-color: #006ba3;
+  font-family: Bodoni;
+  font-size: 24px;
+  width: 224px;
+}
+.mission-statement {
+  margin: 50px 0;
+  text-align: center;
+}
+p.content-p {
+  margin-top: 30px;
+}
+.jumbotron.jumbotron-fluid.about {
+  background: transparent;
+  margin-top: 90px;
+  padding-top: 100px;
+  margin-bottom: 0px;
+  text-align: center;
+  height: 550px;
+}
+.display-4 {
+  margin-bottom: 40px;
+}
+.jumbotron.jumbotron-fluid.coming-soon {
+  background: transparent;
+  margin-top: 90px;
+  padding-top: 100px;
+  margin-bottom: 0px;
+  text-align: center;
+  height: 550px;
+}
+.display-4 {
+  margin-bottom: 40px;
+}
+.involved {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card-img-top {
+  max-height: 361px;
+}
+.involved h4 {
+  text-transform: uppercase;
+  color: #308bbd;
+}
+.card-button {
+  background-color: #308bbd;
+  text-transform: uppercase;
+  color: #fff;
+}
+.contact-form {
+  margin: 0 120px 170px 120px;
+}
+h1.contact-heading {
+  text-align: center;
+  margin-top: 180px;
+  margin-bottom: 70px;
+}
+.button {
+  text-align: center;
+  background-color: #3873a6;
+  border-color: #3873a6;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

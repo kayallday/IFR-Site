@@ -1,0 +1,37 @@
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+.bkgrnd-img {
+  background-image: url(../images/banners/bkgrnd-geo-banner.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+}
+
+.foot-cont {
+  text-align: center;
+}
+
+.ft-nav {
+  display: inline-block;
+  padding-top: 50px;
+}
+
+.copyright {
+  color: $white;
+  text-align: center;
+  font-weight: 300;
+  padding-top: 20px;
+}
+
+.copyright a:hover {
+    color: $white;
+    text-decoration: underline;
+}

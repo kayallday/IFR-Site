@@ -1,0 +1,43 @@
+nav {
+  float: right;
+  text-align: right;
+}
+
+.navbar {
+  height: 100px;
+}
+
+.logo {
+  left: 0px;
+  width: 60%;
+  position: relative;
+}
+
+.main-menu {
+  left: auto;
+}
+
+.nav-item {
+  float: right;
+  text-align: right;
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .logo {
+      left: -30px;
+      width: 120%;
+      position: relative;
+  }
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .logo {
+      left: -15px;
+      width: 65%;
+      position: relative;
+  }
+ }
